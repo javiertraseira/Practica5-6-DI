@@ -2,7 +2,7 @@
 
 ## Parte 1
 
-Utiliza una API para rellenar el contenido de una tabla, cards o campos de la web en Bootstrap creada en las prácticas anteriores. Utiliza alguna de las APIs que hayas guardado en Postman. 
+Utiliza una **API** para rellenar el contenido de una tabla, cards, galería o campos de la web creada en Bootstrap de las prácticas anteriores. Utiliza alguna de las APIs que hayas guardado en Postman. 
 
 Para ello:
 - Ayúdate de las instrucciones vistas en relación a la instrucción *fetch* en Javascript para recuperar dichos datos.
