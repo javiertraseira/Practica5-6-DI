@@ -10,6 +10,8 @@ Para ello:
 - Crea los elementos HTML y llena las filas con los datos de la API.
 - Añade la tabla o elemento HTML generado a un contenedor en tu  web usando para ello funciones del DOM (como *innerHTML*).
 
+No te olvides de agregar la **accesibilidad** adecuada a dichos nuevos elementos y revisar la del formulario.
+
 ## Parte 2
 
 Agrega elementos gráficos mediante la librería **chart.js** para crear un **informe gráfico** de los datos de la tabla o con los datos de otra API que decidas.
