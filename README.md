@@ -2,14 +2,17 @@
 
 ## Parte 1
 
-Utiliza una API para rellenar el contenido de la tabla de la web en Bootstrap creada en el apartado en las prácticas anteriores. Ayúdate de las instrucciones vistas en relación a la instrucción *fetch* en Javascript.
+Utiliza una API para rellenar el contenido de una tabla, cards o campos de la web en Bootstrap creada en las prácticas anteriores. Utiliza alguna de las APIs que hayas guardado en Postman. 
+
+Para ello:
+- Ayúdate de las instrucciones vistas en relación a la instrucción *fetch* en Javascript para recuperar dichos datos.
+- Procesa la respues HTML con *.json()*.
+- Crea los elementos HTML y llena las filas con los datos de la API.
+- Añade la tabla o elemento HTML generado a un contenedor en tu  web usando para ello funciones del DOM (como *innerHTML*).
 
 ## Parte 2
 
-Agrega elementos gráficos mediante la librería **chart.js** para crear un informe gráfico de los datos de la tabla o con los datos que decidas.
+Agrega elementos gráficos mediante la librería **chart.js** para crear un **informe gráfico** de los datos de la tabla o con los datos de otra API que decidas.
 
 ![Gráfico Descripción generada automáticamente](media/4c5b15141ff1411d66379ee1ed71b81f.png)
 
-## Parte 3 (opcional)
-
-Agrega controladores a la tabla generada por la API anterior para tener funciones adicionales como guardar en PDF, modificar, etc.
