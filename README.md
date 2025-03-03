@@ -6,7 +6,7 @@ Utiliza una **API** para rellenar el contenido de una tabla, cards, galería o c
 
 Para ello:
 - Ayúdate de las instrucciones vistas en relación a la instrucción *fetch* en Javascript para recuperar dichos datos.
-- Procesa la respues HTML con *.json()*.
+- Procesa la respuesta HTML con *.json()*.
 - Crea los elementos HTML y llena las filas con los datos de la API.
 - Añade la tabla o elemento HTML generado a un contenedor en tu  web usando para ello funciones del DOM (como *innerHTML*).
 
